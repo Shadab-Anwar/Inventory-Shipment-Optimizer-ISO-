@@ -73,7 +73,6 @@ Warehouse Inventory: Information on inventory management for each product name i
 
 **4 Order Fulfillment Days:**
 
-Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
 
 ## Sugesstions 
 
